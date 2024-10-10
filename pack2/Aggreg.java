@@ -1,3 +1,4 @@
+package pack2;
 class Aggregation
 {
     
